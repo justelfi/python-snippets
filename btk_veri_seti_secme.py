@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May  8 11:45:47 2025
 
-@author: Damla
-"""
 # %% veri seti seçme
 
 import torch
