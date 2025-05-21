@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May  6 14:03:06 2025
-
-@author: Damla
-"""
 
 # Gerekli kütüphaneleri içe aktaralım
 import torch
