@@ -1,0 +1,2 @@
+sesame 
+gradient descent algoritması yaz.
